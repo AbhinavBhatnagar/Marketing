@@ -1,0 +1,47 @@
+ORD=M0388917
+           30  FIRST NAME
+           01  MI
+           30  LAST NAME
+           08  PREFIX
+           47  ADDRESS
+           12  SUITE/APT
+           30  CITY
+           02  STATE
+           05  ZIP5
+           04  ZIP4
+           04  CARRIER ROUTE
+           05  FIPS COUNTY CODE
+           10  LATITUDE
+           11  LONGITUDE
+           01  ADDRESS TYPE INDICATOR
+           06  CENSUS MEDIAN HOME VALUE
+           05  CENSUS MEDIAN HOUSEHOLD INCOME
+           01  GENDER CODE
+           01  INFERRED HOUSEHOLD RANK
+           01  HOME OWNER SOURCE FLAG
+           02  EXACT AGE
+           02  INFERRED AGE
+           01  INCOME - ESTIMATED HOUSEHOLD
+           01  NET WORTH
+           01  EDUCATION
+           01  OCCUPATION
+           01  NUMBER OF CHILDREN
+           01  PRESENCE OF CHILDREN
+           01  MARITAL STATUS IN THE HHLD
+           01  HOME OWNER / RENTER
+           01  PROPERTY TYPE
+           02  ETHNIC CODE
+           01  ETHNIC-CONFIDENCE
+           01  ETHNIC-GROUP
+           02  LANGUAGE
+           01  RELIGION
+           02  HISPANIC COUNTRY-CODE
+
+      1,500 Ptr in
+      1,500 Mst in
+      1,500 Records out
+
+    Count...  State
+
+       1,500  Illinois
+
