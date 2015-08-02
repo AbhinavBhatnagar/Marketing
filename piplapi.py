@@ -1,6 +1,6 @@
 __author__ = 'abhatna4'
 
-from piplapis.search import SearchAPIRequest
+from piplapis.search import SearchAPIRequest, SearchAPIError
 from piplapis.data import Person
 import piplapis.data
 from piplapis.data import Name, Email, Address, Gender
@@ -45,7 +45,6 @@ def search_object(person):
         print response.name
         print response.address
         print response.job
-
     except SearchAPIError as e:
         print e.http_status_code, e
 
