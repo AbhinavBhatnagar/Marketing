@@ -3,18 +3,7 @@ __author__ = 'abhatna4'
 import tweepy
 import time
 
-# consumer_key ='tvDWUBs5uLxDKcX46hb9hrRRz'
-# consumer_secret='H8eV9R18QeFzrSuj8Iej0q34G54JE0aWRZanVBHaF8A7P4q2FJ'
-# access_token='2686774352-ZSE3Huo8guJH12omd2WqNFsex5CmobBcYCv7w3Q'
-# access_secret='tG5xVth829giNpdt96KzMRjAOKnQH2RXCskp77mQpuzFU'
-# consumer_key ='6fMe5TOT8d9VKfjDwkHLFZIGS'
-# consumer_secret='wDpBpzHa42CORI2TxLfIotAb6Xj6L56nE7qqMpXMC46ZXP5fY8'
-# access_token='2686774352-RHzenqDp7RRLbd9HMIZDOFquL1PmV0TIEqcDrfB'
-# access_secret='HJLvy5hiU3NoYNBnPwY2EKGTQ49e87aY2eEkaBtpN66j5'
-consumer_key ='DXdBKyRN1GRGDELKshSAMP6OV'
-consumer_secret='5JGhI6NXMCXxvwAnCqGRGoiJJ4WqwWgAVCO4yPb1cDl6SwSrqa'
-access_token='3301220526-Mlqg3WXC39b3kdNIT2MknC4xkoduZerlF2FUamP'
-access_secret='TK594X1Q0MvHLMj7WjerENqxPTtXwnpCEA7cUQfN0Kc4I'
+
 
 
 twitter_analysis = open('twitter_analysis_friend.txt','w')
